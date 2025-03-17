@@ -11,7 +11,7 @@
 
 - 📝 My **seminar research** focused on **Quantum Computation**, with an emphasis on **Shor's Algorithm**.
 
-- 🚀 Currently, I’m transitioning into the **data science and analytics field**.
+[//]: # (- 🚀 Currently, I’m transitioning into the **data science and analytics field**.)
 
 ### 🐍 Python Libraries for Data, Visualization & ML:
 <table>
