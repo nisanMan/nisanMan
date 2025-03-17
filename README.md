@@ -13,7 +13,7 @@
 
 [//]: # (- 🚀 Currently, I’m transitioning into the **data science and analytics field**.)
 
-### 🐍 Python Libraries for Data, Visualization & ML:
+### 🛠️ Technologies & 🐍 Python Libraries for Data, Visualization & ML
 <table>
     <tr>
         <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a></td>
@@ -27,10 +27,6 @@
         <td align="center"><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a></td>
     </tr>
 </table>
-
-
-### 🛠️ Other Tools & Technologies
-
 <table>
     <tr>
         <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
