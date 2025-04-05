@@ -3,7 +3,7 @@
 ### Passionate about Data Science, AI, and Machine Learning 💙
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nisan-sher/)
-
+[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nisansher)
 
 - 🎓 I hold a **B.Sc. in Mathematics** and have a strong analytical background.
 
