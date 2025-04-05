@@ -36,7 +36,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a></td>
 <td align="center"><a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman" width="110" height="30" style="padding: 0px;"/>
     </a></td>
 <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -44,7 +44,12 @@
 <td align="center"><a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" title="Power BI">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
     </a></td>
-        <td align="center"><a href="https://www.tableau.com/" target="_blank" rel="noreferrer" title="Tableau">
+<td align="center">
+    <a href="https://jupyter.org" target="_blank" rel="noreferrer" title="Jupyter">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/>
+    </a>
+</td>
+<td align="center"><a href="https://www.tableau.com/" target="_blank" rel="noreferrer" title="Tableau">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="110" height="30" style="padding: 0px;"/>
     </a></td>
 </tr>
