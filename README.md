@@ -53,7 +53,7 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
       </a></td>
       <td align="center"><a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>
       </a></td>
       <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
