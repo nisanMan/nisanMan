@@ -9,7 +9,8 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 - **B.Sc. in Mathematics** from The Open University (2021–2025)
 - Seminar on **Quantum Computing**, focusing on **Shor’s Algorithm**
 - Co-author of a peer-reviewed publication on virus transmission in garlic seeds: [MDPI Journal](https://doi.org/10.3390/v14102092)  
-  <img src="https://www.mdpi.com/viruses/viruses-14-02092/article_deploy/html/images/viruses-14-02092-g005.png" alt="Garlic virus research figure" width="300"/>
+
+[//]: # (  <img src="https://www.mdpi.com/viruses/viruses-14-02092/article_deploy/html/images/viruses-14-02092-g005.png" alt="Garlic virus research figure" width="300"/>)
 
 ## 🛠️ Technical Skills
 
