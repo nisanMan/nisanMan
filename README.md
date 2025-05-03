@@ -78,7 +78,10 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 - **Advanced Data Analytics Professional** by [Google Certificate (2025)](https://www.credly.com/badges/e81e2d15-ed99-4264-a143-5ac090ce7c4d/public_url)  
   <img src="https://images.credly.com/size/220x220/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="Google Data Analytics Certificate" width="200"/>
 
+<p style="display:none;">
+<img src="https://komarev.com/ghpvc/?username=nisanMan&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0" /></p>
 
+<img src="https://komarev.com/ghpvc/?username=nisanMan&label=Profile%20views&color=0e75b6&style=flat"/>
 [//]: # ()
 [//]: # (# Hi, I'm Nisan)
 
