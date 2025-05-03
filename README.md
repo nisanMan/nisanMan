@@ -1,7 +1,9 @@
 [//]: # 👋 Hello, I'm Nisan Sher
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nisan+%F0%9F%91%8B;Data+Engineer+%F0%9F%92%BB;ML+Practitioner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nisan+%F0%9F%91%8B;B.Sc.+in+Mathematics+%F0%9F%92%BB;ML+Practitioner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nisan-sher/)
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nisansher)
 
