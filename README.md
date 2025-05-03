@@ -83,7 +83,7 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 
 [//]: <img src="https://komarev.com/ghpvc/?username=nisanMan&label=Profile%20views&color=0e75b6&style=flat"/>
 
-
+![Nisan Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisanMan&github-compact=true&bg_color=0c1014&color=a8f0c6&line=2ecc71&point=27ae60&area=true&area_color=2ecc71ff&hide_border=true&custom_title=Nisan%20Activity%20Graph)
 
 [//]: # ()
 [//]: # (# Hi, I'm Nisan)
