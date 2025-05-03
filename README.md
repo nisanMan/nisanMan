@@ -13,7 +13,7 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 
 [//]: # (  <img src="https://www.mdpi.com/viruses/viruses-14-02092/article_deploy/html/images/viruses-14-02092-g005.png" alt="Garlic virus research figure" width="300"/>)
 
-## 🛠️ Technical Skills
+## <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> My Technical Stacks </h2>  
 
 <div class="table-wrapper">
   <table>
