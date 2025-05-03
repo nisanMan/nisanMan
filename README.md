@@ -13,7 +13,7 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 
 [//]: # (  <img src="https://www.mdpi.com/viruses/viruses-14-02092/article_deploy/html/images/viruses-14-02092-g005.png" alt="Garlic virus research figure" width="300"/>)
 
-## <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> My Technical Stacks </h2>  
+## <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Technical Stacks </h2>  
 
 <div class="table-wrapper">
   <table>
@@ -87,8 +87,9 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 <!-- ![Nisan Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisanMan&github-compact=true&bg_color=0c1014&color=a8f0c6&line=2ecc71&point=27ae60&area=true&area_color=2ecc71ff&hide_border=true&custom_title=Nisan%20Activity%20Graph) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=B.Sc.+in+Mathematics+%F0%9F%92%BB;ML+Practitioner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2311&pause=150&color=00CFFF&center=true&vCenter=true&width=500&lines=B.Sc.+in+Mathematics+%F0%9F%92%BB;ML+Practitioner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
+
 
 <!-- <p align="center">
  My Education Journey... <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z3b2F1b3B1Z2ZpZ3Y2d3F6a3R1c3Z2d3B2N2Z4c3B1eGJzZ3h3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="30px" height="30px"></p> -->
