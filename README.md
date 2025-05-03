@@ -90,4 +90,6 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=B.Sc.+in+Mathematics+%F0%9F%92%BB;ML+Practitioner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z3b2F1b3B1Z2ZpZ3Y2d3F6a3R1c3Z2d3B2N2Z4c3B1eGJzZ3h3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="30px" height="30px"> My Education Journey...
+<!-- <p align="center">
+ My Education Journey... <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z3b2F1b3B1Z2ZpZ3Y2d3F6a3R1c3Z2d3B2N2Z4c3B1eGJzZ3h3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="30px" height="30px"></p> -->
+
