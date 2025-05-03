@@ -81,7 +81,9 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 <p style="display:none;">
 <img src="https://komarev.com/ghpvc/?username=nisanMan&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0" /></p>
 
-<img src="https://komarev.com/ghpvc/?username=nisanMan&label=Profile%20views&color=0e75b6&style=flat"/>
+
+
+
 [//]: # ()
 [//]: # (# Hi, I'm Nisan)
 
