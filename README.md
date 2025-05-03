@@ -1,8 +1,4 @@
-<!-- # 👋 Hello, I'm Nisan Sher -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nisan+%F0%9F%91%8B;B.Sc.+in+Mathematics+%F0%9F%92%BB;ML+Practitioner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+# 👋 Hello, I'm Nisan Sher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nisan-sher/)
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nisansher)
@@ -85,8 +81,12 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 
 <p style="display:none;">
 <img src="https://komarev.com/ghpvc/?username=nisanMan&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0" /></p>
-
 [//]: <img src="https://komarev.com/ghpvc/?username=nisanMan&label=Profile%20views&color=0e75b6&style=flat"/>
+
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/README.md -->
-![Nisan Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisanMan&github-compact=true&bg_color=0c1014&color=a8f0c6&line=2ecc71&point=27ae60&area=true&area_color=2ecc71ff&hide_border=true&custom_title=Nisan%20Activity%20Graph)
+<!-- ![Nisan Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisanMan&github-compact=true&bg_color=0c1014&color=a8f0c6&line=2ecc71&point=27ae60&area=true&area_color=2ecc71ff&hide_border=true&custom_title=Nisan%20Activity%20Graph) -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=B.Sc.+in+Mathematics+%F0%9F%92%BB;ML+Practitioner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
