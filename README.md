@@ -94,3 +94,4 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 <!-- <p align="center">
  My Education Journey... <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z3b2F1b3B1Z2ZpZ3Y2d3F6a3R1c3Z2d3B2N2Z4c3B1eGJzZ3h3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="30px" height="30px"></p> -->
 
+<!-- https://github.com/lowlighter/metrics?tab=readme-ov-file -->
