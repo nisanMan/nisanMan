@@ -98,4 +98,9 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Responsive Image Mode Home.html](https://nisanman.github.io/posts/responsive-image-dark-mode/)
+- [Convert Images to WEBP and Generate LQIP using Python Script](https://nisanman.github.io/posts/webp-liqd/)
+- [Pythagorean Tree](https://nisanman.github.io/posts/Pythagorean-Tree/)
+- [Singular Value Decomposition &lpar;SVD&rpar;](https://nisanman.github.io/posts/SVD/)
+- [Negev Rain EDA](https://nisanman.github.io/posts/Negev-Rain-EDA/)
 <!-- BLOG-POST-LIST:END -->
