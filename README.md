@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nisan Sher
+# Hello, I'm Nisan Sher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nisan-sher/)
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nisansher)
