@@ -86,9 +86,7 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/README.md -->
 <!-- ![Nisan Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nisanMan&github-compact=true&bg_color=0c1014&color=a8f0c6&line=2ecc71&point=27ae60&area=true&area_color=2ecc71ff&hide_border=true&custom_title=Nisan%20Activity%20Graph) -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2311&pause=150&color=00CFFF&center=true&vCenter=true&width=500&lines=B.Sc.+in+Mathematics+%F0%9F%92%BB;ML+Practitioner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+
 
 
 <!-- <p align="center">
@@ -104,3 +102,7 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 - [Singular Value Decomposition &lpar;SVD&rpar;](https://nisanman.github.io/posts/SVD/)
 - [Negev Rain EDA](https://nisanman.github.io/posts/Negev-Rain-EDA/)
 <!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2311&pause=150&color=00CFFF&center=true&vCenter=true&width=500&lines=B.Sc.+in+Mathematics+%F0%9F%92%BB;ML+Practitioner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
