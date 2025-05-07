@@ -71,7 +71,7 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
     </tr>
   </table>
 </div>
-
+<!-- llama,doker -->
 
 
 ## 📄 Certifications
