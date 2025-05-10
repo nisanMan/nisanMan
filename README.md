@@ -17,33 +17,14 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 ## <h2> `</>`  Technical Stacks </h2>
 ### Technologies:
 <div>
-<!--   <p align="left"> -->
-  <img align="center" alt="Windows"    width="30px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg"> 
-  <img align="center" alt="Linux"      width="35px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg"> 
-  <img align="center" alt="Docker"     width="50px"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Kubernetes" width="40px"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Terraform"  width="40px"            src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png"> 
-  <img align="center" alt="Vault"      width="30px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vault/vault-original.svg"> 
-  <img align="center" alt="Git"        height="30"  width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="ADO"        width="37px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuredevops/azuredevops-original.svg"> 
-  <img align="center" alt="Azure"      height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="AWS"        width="60px"            src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg"> 
-  <img align="center" alt="Python"     width="40px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"> 
-  <img align="center" alt="Go"         width="35px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original.svg"> 
-  <img align="center" alt="Powershell" width="37px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg"> 
+  <p align="left">
+
   
 <p align="center">
   <img align="center" alt="Windows"                          width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg">
   <img align="center" alt="Linux"                            width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg">
-  <img align="center" alt="Terraform"                        width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png">
-  <img align="center" alt="Vault"                            width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vault/vault-original.svg">
-  <img align="center" alt="Azure"              height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="AWS"                              width="60px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg">
   <img align="center" alt="Docker"                           width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Kubernetes"                       width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="ADO"                              width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuredevops/azuredevops-original.svg">
   <img align="center" alt="Python"                           width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg">
-  <img align="center" alt="Go"                               width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original.svg">
   <img align="center" alt="Powershell"                       width="37px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg">
   <img align="center" alt="Git" height="30px"                width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 </p>    
