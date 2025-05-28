@@ -151,6 +151,10 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 <!-- PostgreSQL -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40"/>
+<!-- Ollama -->
+<img src="https://seeklogo.com/images/O/ollama-logo-593420.svg" alt="Ollama" width="40"/>
+
+
 <!-- VS Code -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 <!-- React -->
