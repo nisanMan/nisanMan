@@ -151,8 +151,7 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 <!-- PostgreSQL -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40"/>
-<!-- Ollama -->
-<img src="https://seeklogo.com/images/O/ollama-logo-593420.svg" alt="Ollama" width="40"/>
+
 
 
 <!-- VS Code -->
@@ -190,6 +189,8 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 
 <!-- Arduino -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+<!-- Ollama -->
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" alt="Ollama" width="40"/>
 </p>
 <p align="center">
   
