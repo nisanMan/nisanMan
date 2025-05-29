@@ -156,6 +156,9 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 
 <!-- VS Code -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<!-- Jekyll -->
+<img src="https://raw.githubusercontent.com/jekyll/brand/master/jekyll-logo.svg" alt="Jekyll" width="40" height="40"/>
+
 <!-- React -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 
