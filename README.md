@@ -102,6 +102,9 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" alt="Ollama" width="40"/>
 <!-- Hugging Face -->
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
+<!-- LangChain -->
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.47.0/files/dark/langchain-color.png" alt="LangChain" width="40" height="40"/>
+
 </p>
 
 
