@@ -126,14 +126,9 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 
 <!-- https://github.com/lowlighter/metrics?tab=readme-ov-file -->
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Responsive Image Mode Home.html](https://nisanman.github.io/posts/responsive-image-dark-mode/)
-- [Convert Images to WEBP and Generate LQIP using Python Script](https://nisanman.github.io/posts/webp-liqd/)
-- [Pythagorean Tree](https://nisanman.github.io/posts/Pythagorean-Tree/)
-- [Singular Value Decomposition &lpar;SVD&rpar;](https://nisanman.github.io/posts/SVD/)
-- [Negev Rain EDA](https://nisanman.github.io/posts/Negev-Rain-EDA/)
-<!-- BLOG-POST-LIST:END -->
+# Latest PRs
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2311&pause=150&color=00CFFF&center=true&vCenter=true&width=500&lines=B.Sc.+in+Mathematics+%F0%9F%92%BB;ML+Practitioner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
