@@ -1,24 +1,24 @@
-name: Latest PRs
+# name: Latest PRs
 
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: '0 * * * *'
+#   workflow_dispatch:
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
-jobs:
-  update-readme:
-    name: Update README with latest PRs
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+# jobs:
+#   update-readme:
+#     name: Update README with latest PRs
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v4
 
-      - name: Update README with PRs
-        uses: jamesgeorge007/github-activity-readme@v0.4.3
-        with:
-          GH_USERNAME: nisanMan
-          MAX_LINES: 5
-          COMMIT_MSG: "Updated README with latest PRs"
+#       - name: Update README with PRs
+#         uses: jamesgeorge007/github-activity-readme@v0.4.3
+#         with:
+#           GH_USERNAME: nisanMan
+#           MAX_LINES: 5
+#           COMMIT_MSG: "Updated README with latest PRs"
