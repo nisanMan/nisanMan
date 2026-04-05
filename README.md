@@ -26,14 +26,14 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 <!-- NumPy -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40"/>
 
-<!-- SciPy -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="40"/>
+<!-- SciPy 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="40"/> -->
 
 <!-- Scikit-learn -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40"/>
 
-<!-- XGBoost -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="XGBoost" width="40"/>
+<!-- XGBoost 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="XGBoost" width="40"/> -->
 
 <!-- Matplotlib -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40"/>
