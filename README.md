@@ -39,7 +39,7 @@ Showcase of my projects and work:
 <p style="display:none;">
 <img src="https://komarev.com/ghpvc/?username=nisanMan&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0" /></p>
 
-## <h2> `</>`  Technologies Stacks </h2>
+----
 
 <p align="center">
   
