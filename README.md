@@ -5,6 +5,20 @@
 
 A **mathematician turned data scientist**, passionate about **AI**, **Machine Learning**, and **data-driven insights**.
 
+## 🌐 Live Projects
+
+🔹 **Backend API (FastAPI)**  
+Interactive API documentation:  
+👉 https://fastapi-project-production-4bdc.up.railway.app/docs#/
+
+🔹 **Tech Blog**  
+Articles on Data Science, Python & Projects:  
+👉 https://nisanman.github.io/
+
+🔹 **Portfolio Gallery**  
+Showcase of my projects and work:  
+👉 https://nisanman.github.io/PortfolioGallery/
+
 ## 🎓 Academic Background 
 
 - **B.Sc. in Mathematics** from The Open University (2021–2025)
@@ -126,7 +140,9 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 
 <!-- https://github.com/lowlighter/metrics?tab=readme-ov-file -->
 
-# Latest PRs
+
+
+<!-- # Latest PRs -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
