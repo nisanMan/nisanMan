@@ -1,9 +1,13 @@
-# Hello, I'm Nisan Sher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nisan-sher/)
-[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nisansher)
+[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nisansher) <h1 align="center"> Nisan Sher </h1>
+<p align="center">
+  <b>B.Sc. in Mathematics 💻 | ML Practitioner 🧑‍💻 | Python Lover 🐍 | Always Learning 📚</b>
+</p>
 
-A **mathematician turned data scientist**, passionate about **AI**, **Machine Learning**, and **data-driven insights**.
+
+
+<p align="center">A mathematician turned data scientist, passionate about AI, Machine Learning, and data-driven insights.</p>
 
 ## 🌐 Live Projects
 
@@ -26,6 +30,14 @@ Showcase of my projects and work:
 - Co-author of a peer-reviewed publication on virus transmission in garlic seeds: [MDPI Journal](https://doi.org/10.3390/v14102092)  
 
 [//]: # (  <img src="https://www.mdpi.com/viruses/viruses-14-02092/article_deploy/html/images/viruses-14-02092-g005.png" alt="Garlic virus research figure" width="300"/>)
+
+## 📄 Certifications
+
+- **Advanced Data Analytics Professional** by [Google Certificate (2025)](https://www.credly.com/badges/e81e2d15-ed99-4264-a143-5ac090ce7c4d/public_url)  
+  <img src="https://images.credly.com/size/220x220/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="Google Data Analytics Certificate" width="200"/>
+
+<p style="display:none;">
+<img src="https://komarev.com/ghpvc/?username=nisanMan&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0" /></p>
 
 ## <h2> `</>`  Technologies Stacks </h2>
 
@@ -123,13 +135,7 @@ Showcase of my projects and work:
 
 
 
-## 📄 Certifications
 
-- **Advanced Data Analytics Professional** by [Google Certificate (2025)](https://www.credly.com/badges/e81e2d15-ed99-4264-a143-5ac090ce7c4d/public_url)  
-  <img src="https://images.credly.com/size/220x220/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="Google Data Analytics Certificate" width="200"/>
-
-<p style="display:none;">
-<img src="https://komarev.com/ghpvc/?username=nisanMan&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0" /></p>
 <!-- <img src="https://komarev.com/ghpvc/?username=nisanMan&label=Profile%20views&color=0e75b6&style=flat"/> -->
 
  <!-- https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/README.md 
@@ -150,6 +156,4 @@ Showcase of my projects and work:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2311&pause=150&color=00CFFF&center=true&vCenter=true&width=500&lines=B.Sc.+in+Mathematics+%F0%9F%92%BB;ML+Practitioner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p> -->
 
-<p align="center">
-  <b>B.Sc. in Mathematics 💻 | ML Practitioner 🧑‍💻 | Python Lover 🐍 | Always Learning 📚</b>
-</p>
+
