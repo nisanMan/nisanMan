@@ -146,7 +146,10 @@ Showcase of my projects and work:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2311&pause=150&color=00CFFF&center=true&vCenter=true&width=500&lines=B.Sc.+in+Mathematics+%F0%9F%92%BB;ML+Practitioner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+</p> -->
 
+<p align="center">
+  <b>B.Sc. in Mathematics 💻 | ML Practitioner 🧑‍💻 | Python Lover 🐍 | Always Learning 📚</b>
+</p>
