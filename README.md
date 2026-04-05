@@ -133,4 +133,4 @@ A **mathematician turned data scientist**, passionate about **AI**, **Machine Le
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2311&pause=150&color=00CFFF&center=true&vCenter=true&width=500&lines=B.Sc.+in+Mathematics+%F0%9F%92%BB;ML+Practitioner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+Lover+%F0%9F%90%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
-![Repo views](https://komarev.com/ghpvc/?username=nisanMan&repo=fastapi-project)
+
